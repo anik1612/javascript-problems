@@ -14,10 +14,10 @@ if (a > b && a > c) {
 }
 
 //find largest element in an array
-var arr = [1,2,3,4,5]
+var arr = [10,25,53,42,57]
 var max = arr[0];
 for(var i=1; i<arr.length; i++){
-    if(arr[0]<arr[i]){
+    if(arr[i]>max){
         max = arr[i];
     }
 }

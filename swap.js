@@ -1,4 +1,4 @@
-// usign temp variable
+// using temp variable
 var a = 5;
 var b = 7;
 
@@ -24,7 +24,7 @@ c = c-d;
 
 console.log('after swap c = ',c, 'd = ', d);
 
-// usign array index 
+// using array index 
 
 var e = 5;
 var f = 7;
